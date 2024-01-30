@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@biltaji_mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/@biltaji_mohamed?logo=twitter&style=for-the-badge" alt="@biltaji_mohamed" /></a> </p>
 
-- 🌱 I’m currently learning **Forward course , python , Data Science , problem solving**
+- 🌱 I’m currently learning ** Network Forward course , python , Data Science , problem solving**
 
 - 📝 I regularly write articles in [https://medium.com/@Beltagy_Mohamed](https://medium.com/@Beltagy_Mohamed)
 
